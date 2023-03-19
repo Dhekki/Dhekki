@@ -11,8 +11,13 @@
 </div>
 
 
+
+
 <div align="center">  
+
+<a href="https://github.com/Dhekki/ProjetosUnifacs">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/pin/?username=Dhekki&repo=ProjetosUnifacs&theme=midnight-purple&text_color=61ffca&border_color=000000" alt="Gabriel Moreira de Oliveira github stats" /> 
+  </a>
 </div>
 
 
