@@ -13,6 +13,13 @@
 
 
 
+
+
+
+
+
+<!--
+
 <div align="center">  
 
 <a href="https://github.com/Dhekki/ProjetosUnifacs">
@@ -23,7 +30,8 @@
 
 
 
-<!--
+
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dhekki&repo=ProjetosUnifacs&theme=midnight-purple&text_color=61ffca&border_color=000000)](https://github.com/Dhekki/github-readme-stats)
 
