@@ -1,11 +1,13 @@
-<img src="icon.jpg" alt="shizuku" width="300px" align="right">
-
-<a align="left" href="https://github.com/Dhekki" target="_blank">
+<img src="assets/title.svg" alt="title" width="850px" align="center">
+<br>
+<p>
+  <a align="left" href="https://github.com/Dhekki" target="_blank">
   <img src="https://img.shields.io/static/v1?label=Overview&message=Dhekki&color=003DA5&style=for-the-badge&logo=GitHub" alt="Static GitHub Badge">
-</a>
+  </a>
+  <img src="assets/icon.jpg" alt="shizuku" align="right" style="width: 300px; width: 35%;">
+</p>
 
 <p align="left">  
-  Hi! My name is Gabriel — but around here you can call me <strong>Dhekki</strong> 👋<br><br>
   I'm a Computer Science student at Unifacs and a Systems Development Technician from SENAI.<br>
   Currently, I'm exploring technologies like <strong>JavaScript</strong>, <strong>Python</strong>, and <strong>Cloud Computing with AWS</strong> ☁️ and reviewing basic data structures concepts with <strong>Java</strong>.<br><br>
   I have a great interest in Linux ( I use arch, btw ), terminal automation, cloud computing, artificial intelligence, and machine learning.<br>
@@ -81,16 +83,23 @@ Languages & Technologies: `Python`, `JavaScript`, `AWS`, `Bedrock`, `Textract`, 
 
 ---
 
-<img src="icon.gif" alt="gif" min-width="400px" max-width="400px" width="400px" align="left">
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhekki&exclude_repo=RhythmGml&cache_seconds=1800&layout=donut&theme=tokyonight" height="205" align="right"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=dhekki&show_icons=true&theme=tokyonight" height="190" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhekki&exclude_repo=RhythmGml&cache_seconds=1800&layout=donut&theme=tokyonight" height="200"/> &nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=dhekki&show_icons=true&theme=tokyonight" height="200"/>     
 </p>
 
-<br clear="all">
-<br><br>
+---
+
+<br clear="both">
+<p>
 
 <p align="center">
-<em><b>You can't control the wind but you can adjust your sails. It's not about what happens to you, it's how you react...</b></em>
+  <img src="assets/icon.gif" alt="gif" align="right" width="350">
+  &nbsp;
+  <br><br>
+  <em align="left"><b><br>You can't control the wind<br> but you can adjust your sails.<br>It's not about what happens to you,<br>it's how you react...</b></em>
+   <br><br>
+   <a href="https://github.com/Dhekki">
+    <img src="assets/refresh.svg" alt="refresh" width="170">
+  </a>
 </p>
