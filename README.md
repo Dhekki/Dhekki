@@ -4,7 +4,7 @@
   <a align="left" href="https://github.com/Dhekki" target="_blank">
   <img src="https://img.shields.io/static/v1?label=Overview&message=Dhekki&color=003DA5&style=for-the-badge&logo=GitHub" alt="Static GitHub Badge">
   </a>
-  <img src="assets/icon.jpg" alt="shizuku" align="right" style="width: 300px; width: 35%;">
+  <img src="https://avatars.githubusercontent.com/u/119681244?v=4" alt="profile-icon" align="right" style="width: 300px; width: 35%;">
 </p>
 
 <p align="left">  
