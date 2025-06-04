@@ -8,9 +8,9 @@
 </p>
 
 <p align="left">  
-  I'm a Computer Science student at Unifacs and a Systems Development Technician from SENAI.<br>
+  I'm a Computer Science student at Unifacs and a Systems Development at SENAI.<br>
   Currently, I'm exploring technologies like <strong>JavaScript</strong>, <strong>Python</strong>, and <strong>Cloud Computing with AWS</strong> ☁️ and reviewing basic data structures concepts with <strong>Java</strong>.<br><br>
-  I have a great interest in Linux ( I use arch, btw ), terminal automation, cloud computing, artificial intelligence, and machine learning.<br>
+  I have a great interest in <strong>Linux</strong> ( I use arch, btw ), terminal automation, cloud computing, artificial intelligence, and machine learning.<br>
   I am currently interning at <strong>CompassUOL</strong>, where I participate in various cloud learning projects with APIs and artificial intelligence.<br>
 </p>
 
@@ -74,7 +74,7 @@ Featured Project: [CRUD in C - Vehicle Rental](https://github.com/Dhekki/SENAI-A
 
 Below you will find my most recent work experience:
 
-[<img align="left" width="124px" alt="Warpnet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRvmyr05uYXotbzEWzKIgXXqAHLFGLSLq2zg&s"/>](https://compass.uol/pt/home/)
+[<img align="left" width="124px" alt="Warpnet" src="https://camo.githubusercontent.com/f600cff1defa446bad05ec5d84777e953955e806d929c6fdbcd242a94a7bad63/68747470733a2f2f64312e6177737374617469632e636f6d2f6c6f676f732f416d617a6f6e2532304d534b2532306c6f676f732f434f4d504153532d4c4f474f2e363864656666316635383462656130373637383435383732666138663233623932376432353134392e706e67"/>](https://compass.uol/pt/home/)
 
 **Intern - Scholarship Program** \
 [**CompassUol**](https://compass.uol/pt/home/) • 03/2025 - 08/2025 \
