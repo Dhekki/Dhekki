@@ -2,7 +2,7 @@
 <br>
 <p>
   <a align="left" href="https://github.com/Dhekki" target="_blank">
-  <img src="https://img.shields.io/static/v1?label=Overview&message=Dhekki&color=003DA5&style=for-the-badge&logo=GitHub" alt="Static GitHub Badge">
+  <img src="https://img.shields.io/static/v1?label=Overview&labelColor=232F3E&message=Dhekki&color=003DA5&style=for-the-badge&logo=GitHub" alt="Static GitHub Badge">
   </a>
   <img src="https://avatars.githubusercontent.com/u/119681244?v=4" alt="profile-icon" align="right" style="width: 300px; width: 35%;">
 </p>
@@ -16,21 +16,23 @@
 
 <p align="left">
   💻 <strong>Languages: </strong><br><br>
-  <img src="https://img.shields.io/badge/Java-DC322F?style=for-the-badge&logo=OpenJDK&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-232F3E?style=for-the-badge&logo=OpenJDK">
+  <img src="https://img.shields.io/badge/JavaScript-232F3E?style=for-the-badge&logo=javascript">
+  <img src="https://img.shields.io/badge/Python-232F3E?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/-232F3E?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-232F3E?style=for-the-badge&logo=c%2B%2B">
+  <img src="https://img.shields.io/badge/GML-232F3E?logo=gamemaker&style=for-the-badge">
 </p>
 
 <p align="left">
   🛠️ <strong>Tools:</strong><br><br>
   <img src="https://img.shields.io/badge/Arch%20Linux-232F3E?style=for-the-badge&logo=ArchLinux">
   <img src="https://img.shields.io/badge/Hyprland-232F3E?style=for-the-badge&logo=Hyprland">
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">  
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Docker-232F3E?style=for-the-badge&logo=docker">
+  <img src="https://img.shields.io/badge/Git-232F3E?style=for-the-badge&logo=git">
+  <img src="https://img.shields.io/badge/Neovim-232F3E?logo=neovim&style=for-the-badge">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-web-services&logoColor=white">  
+  <img src="https://img.shields.io/badge/Game Maker-232F3E?logo=gamemaker&style=for-the-badge">
 </p>
 
 <p align="left">
@@ -39,26 +41,24 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/dhekki/" title="LinkedIn" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <img hspace="2" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=flat-square" alt="LinkedIn"/></a>
   <a href="mailto:gmdo0420@gmail.com" title="Gmail" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <img hspace="2" src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.instagram.com/gmo0420/" title="Instagram" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <img hspace="2" src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://x.com/Dhekkii" title="Twitter" target="_blank">
-  <img src="https://img.shields.io/badge/-Twitter-000000?style=flat-square&labelColor=000000&logo=X&logoColor=white" alt="Twitter"/></a>
+  <img hspace="2" src="https://img.shields.io/badge/-Twitter-000000?style=flat-square&labelColor=000000&logo=X&logoColor=white" alt="Twitter"/></a>
 </p>
 
 ---
 
 ### Academic Experience
 
-Below you will find my main qualifications:
-
 [<img align="left" width="124px" alt="Warpnet" src="https://estaticos.animaeducacao.com.br/None/unifacs.webp"/>](https://www.unifacs.br/)
 
 **Bachelor's Degree in Computer Science** \
 [**Unifacs**](https://www.unifacs.br/) • 2023 - 2026 (expected) \
-Languages & Technologies: `Java`, `Python`, `PacketTracer`, `GameMakerStudio`, `AWS`\
+Languages & Technologies: `Java`|`Python`|`PacketTracer`|`GameMakerStudio`|`AWS`\
 Featured Project: [Rhythm Gml](https://dhekki.github.io/RhythmGml/)
 <br><br>
 
@@ -66,19 +66,17 @@ Featured Project: [Rhythm Gml](https://dhekki.github.io/RhythmGml/)
 
 **Technician in Systems Development** \
 [**Senai**](https://www.senaibahia.com.br/) • 2025 - 2026 (expected) \
-Languages & Technologies: `C`, `C++`, `Arduino`\
+Languages & Technologies: `C`|`C++`|`Arduino`\
 Featured Project: [CRUD in C - Vehicle Rental](https://github.com/Dhekki/SENAI-AluguelVeiculos)
 <br><br>
 
 ### Work Experience
 
-Below you will find my most recent work experience:
-
 [<img align="left" width="124px" alt="Warpnet" src="https://camo.githubusercontent.com/f600cff1defa446bad05ec5d84777e953955e806d929c6fdbcd242a94a7bad63/68747470733a2f2f64312e6177737374617469632e636f6d2f6c6f676f732f416d617a6f6e2532304d534b2532306c6f676f732f434f4d504153532d4c4f474f2e363864656666316635383462656130373637383435383732666138663233623932376432353134392e706e67"/>](https://compass.uol/pt/home/)
 
 **Intern - Scholarship Program** \
 [**CompassUol**](https://compass.uol/pt/home/) • 03/2025 - 08/2025 \
-Languages & Technologies: `Python`, `JavaScript`, `AWS`, `Bedrock`, `Textract`, `Chalice`\
+Languages & Technologies: `Python`|`JavaScript`|`AWS`|`Bedrock`|`Textract`|`Chalice`\
 <br>
 
 ---
