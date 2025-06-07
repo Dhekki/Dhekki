@@ -1,4 +1,4 @@
-<img src="assets/title.svg" alt="title" width="850px" align="center">
+<img src="assets/title.svg" alt="title" width="100%" align="center">
 <br>
 <p>
   <a align="left" href="https://github.com/Dhekki" target="_blank">
@@ -8,10 +8,10 @@
 </p>
 
 <p align="left">  
-  I'm a Computer Science student at Unifacs and a Systems Development at SENAI.<br>
-  Currently, I'm exploring technologies like <strong>JavaScript</strong>, <strong>Python</strong>, and <strong>Cloud Computing with AWS</strong> ☁️ and reviewing basic data structures concepts with <strong>Java</strong>.<br><br>
-  I have a great interest in <strong>Linux</strong> ( I use arch, btw ), terminal automation, cloud computing, artificial intelligence, and machine learning.<br>
-  I am currently interning at <strong>CompassUOL</strong>, where I participate in various cloud learning projects with APIs and artificial intelligence.<br>
+  I am a Computer Science student at <strong>Unifacs</strong> and Systems Development at <strong>Senai</strong>. Currently, I'm an intern at <strong>CompassUOL</strong>, where I participate in various cloud learning projects with APIs and artificial intelligence. I am also a participant in the <strong>10th Cisco Brazil CyberEducation Marathon</strong>, now in its second phase.
+  <br><br>
+  I have a great interest in Linux (I use Arch, btw), terminal automation, network concepts, cybersecurity, cloud computing, and machine learning!
+  
 </p>
 
 <p align="left">
@@ -19,20 +19,50 @@
   <img src="https://img.shields.io/badge/Java-232F3E?style=for-the-badge&logo=OpenJDK">
   <img src="https://img.shields.io/badge/JavaScript-232F3E?style=for-the-badge&logo=javascript">
   <img src="https://img.shields.io/badge/Python-232F3E?style=for-the-badge&logo=python">
-  <img src="https://img.shields.io/badge/-232F3E?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/c-232F3E?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-232F3E?style=for-the-badge&logo=c%2B%2B">
   <img src="https://img.shields.io/badge/GML-232F3E?logo=gamemaker&style=for-the-badge">
 </p>
 
 <p align="left">
   🛠️ <strong>Tools:</strong><br><br>
-  <img src="https://img.shields.io/badge/Arch%20Linux-232F3E?style=for-the-badge&logo=ArchLinux">
-  <img src="https://img.shields.io/badge/Hyprland-232F3E?style=for-the-badge&logo=Hyprland">
-  <img src="https://img.shields.io/badge/Docker-232F3E?style=for-the-badge&logo=docker">
-  <img src="https://img.shields.io/badge/Git-232F3E?style=for-the-badge&logo=git">
-  <img src="https://img.shields.io/badge/Neovim-232F3E?logo=neovim&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Game Maker-232F3E?logo=gamemaker&style=for-the-badge">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-web-services&logoColor=white">  
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/Arch%20Linux-232F3E?style=for-the-badge&logo=ArchLinux">
+	  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Arch%20Linux-E7C485?style=for-the-badge&logo=ArchLinux">
+    <img alt="tagsNight" src="https://img.shields.io/badge/Arch%20Linux-232F3E?style=for-the-badge&logo=ArchLinux">
+  </picture><picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/Hyprland-232F3E?style=for-the-badge&logo=Hyprland">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Hyprland-E7C485?style=for-the-badge&logo=Hyprland">
+    <img alt="tagsNight" src="https://img.shields.io/badge/Hyprland-232F3E?style=for-the-badge&logo=Hyprland">
+  </picture><picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/Docker-232F3E?style=for-the-badge&logo=docker">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Docker-E7C485?style=for-the-badge&logo=docker">
+    <img alt="tagsNight" src="https://img.shields.io/badge/Docker-232F3E?style=for-the-badge&logo=docker">
+  </picture><picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/Git-232F3E?style=for-the-badge&logo=git">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Git-E7C485?style=for-the-badge&logo=git">
+    <img alt="tagsNight" src="https://img.shields.io/badge/Git-232F3E?style=for-the-badge&logo=git">
+  </picture><picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/Postman-232F3E?style=for-the-badge&logo=postman">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Postman-E7C485?style=for-the-badge&logo=postman">
+    <img alt="tagsNight" src="https://img.shields.io/badge/Postman-232F3E?style=for-the-badge&logo=postman">
+  </picture><picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/Neovim-232F3E?style=for-the-badge&logo=neovim">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Neovim-E7C485?style=for-the-badge&logo=neovim">
+    <img alt="tagsNight" src="https://img.shields.io/badge/Neovim-232F3E?style=for-the-badge&logo=neovim">
+  </picture><picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/Game Maker-232F3E?style=for-the-badge&logo=gamemaker">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Game Maker-E7C485?style=for-the-badge&logo=gamemaker">
+    <img alt="tagsNight" src="https://img.shields.io/badge/Game Maker-232F3E?style=for-the-badge&logo=gamemaker">
+  </picture><picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/Arduino-232F3E?style=for-the-badge&logo=Arduino">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Arduino-E7C485?style=for-the-badge&logo=Arduino">
+    <img alt="tagsNight" src="https://img.shields.io/badge/Arduino-232F3E?style=for-the-badge&logo=Arduino">
+  </picture><picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/AWS-E7C485?style=for-the-badge">
+    <img alt="tagsNight" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge">
+  </picture>
 </p>
 
 <p align="left">
@@ -55,9 +85,10 @@
 ### Academic Experience
 
 [<img align="left" width="124px" alt="Warpnet" src="https://estaticos.animaeducacao.com.br/None/unifacs.webp"/>](https://www.unifacs.br/)
+<a href="https://www.unifacs.br/" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Unifacs-0D1117?style=for-the-badge"></picture>
 
-**Bachelor's Degree in Computer Science** \
-[**Unifacs**](https://www.unifacs.br/) • 2023 - 2026 (expected) \
+**&nbsp;&nbsp;&nbsp;Bachelor's Degree in Computer Science** \
+<a href="https://www.unifacs.br/" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Unifacs-0D1117?style=for-the-badge"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Unifacs-FFFFFF?style=for-the-badge"><img align="absmiddle" alt="Unifacs" src="https://img.shields.io/badge/Unifacs-0D1117?style=for-the-badge"></picture></a> • 2023 - 2026 (expected) \
 Languages & Technologies: 
 ![Java](https://img.shields.io/badge/-Java-000?&logo=openJDK)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -67,15 +98,15 @@ Languages & Technologies:
 ![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-000?&logo=scikit-learn)
 ![Cisco PacketTracer](https://img.shields.io/badge/-PacketTracer-000?) \
 Featured Project: [Rhythm Gml](https://dhekki.github.io/RhythmGml/)
-<br><br>
+<br>
 
 [<img align="left" width="124px" alt="Rocketseat" src="https://senaitocantins.com.br/wp-content/uploads/2021/05/logo-azul-senai.png"/>](https://www.senaibahia.com.br/)
 
-**Technician in Systems Development** \
-[**Senai**](https://www.senaibahia.com.br/) • 2025 - 2026 (expected) \
+**&nbsp;&nbsp;&nbsp;Technician in Systems Development** \
+<a href="https://www.senaibahia.com.br/" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Senai-0D1117?style=for-the-badge"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Senai-FFFFFF?style=for-the-badge"><img align="absmiddle" alt="Senai" src="https://img.shields.io/badge/Senai-0D1117?style=for-the-badge"></picture></a> • 2025 - 2026 (expected) \
 Languages & Technologies:
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b)
 ![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino) \
 Featured Project: [CRUD in C - Vehicle Rental](https://github.com/Dhekki/SENAI-AluguelVeiculos)
 <br><br>
@@ -84,16 +115,14 @@ Featured Project: [CRUD in C - Vehicle Rental](https://github.com/Dhekki/SENAI-A
 
 [<img align="left" width="124px" alt="Warpnet" src="https://camo.githubusercontent.com/f600cff1defa446bad05ec5d84777e953955e806d929c6fdbcd242a94a7bad63/68747470733a2f2f64312e6177737374617469632e636f6d2f6c6f676f732f416d617a6f6e2532304d534b2532306c6f676f732f434f4d504153532d4c4f474f2e363864656666316635383462656130373637383435383732666138663233623932376432353134392e706e67"/>](https://compass.uol/pt/home/)
 
-**Intern - Scholarship Program** \
-[**CompassUol**](https://compass.uol/pt/home/) • 03/2025 - 08/2025 \
+**&nbsp;&nbsp;&nbsp;Intern - Scholarship Program** \
+<a href="https://compass.uol/pt/home/" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CompassUOL-0D1117?style=for-the-badge"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/CompassUOL-FFFFFF?style=for-the-badge"><img align="absmiddle" alt="CompassUOL" src="https://img.shields.io/badge/CompassUOL-0D1117?style=for-the-badge"></picture></a>
+ • 03/2025 - 08/2025 \
 Languages & Technologies:
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-000?&logo=scikit-learn)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 <br>
 
@@ -118,4 +147,8 @@ Languages & Technologies:
    <a href="https://github.com/Dhekki">
     <img src="assets/refresh.svg" alt="refresh" width="170">
   </a>
+</p>
+
+<p align="center">
+     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
