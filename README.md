@@ -123,18 +123,50 @@
 ### Academic Experience
 
 [<img align="left" width="124px" alt="Warpnet" src="https://estaticos.animaeducacao.com.br/None/unifacs.webp"/>](https://www.unifacs.br/)
-<a href="https://www.unifacs.br/" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Unifacs-0D1117?style=for-the-badge"></picture>
 
 **&nbsp;&nbsp;&nbsp;Bachelor's Degree in Computer Science** \
 <a href="https://www.unifacs.br/" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Unifacs-0D1117?style=for-the-badge"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Unifacs-FFFFFF?style=for-the-badge"><img align="absmiddle" alt="Unifacs" src="https://img.shields.io/badge/Unifacs-0D1117?style=for-the-badge"></picture></a> • 2023 - 2026 (expected) \
 Languages & Technologies:
-<img align="absmiddle" alt="Java" src="https://img.shields.io/badge/-Java-000?&logo=openJDK">
-<img align="absmiddle" alt="Python" src="https://img.shields.io/badge/-Python-000?&logo=Python">
-<img align="absmiddle" alt="GameMaker" src="https://img.shields.io/badge/-GML-000?&logo=gamemaker">
-<img align="absmiddle" alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow">
-<img align="absmiddle" alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch">
-<img align="absmiddle" alt="Scikit-Learn" src="https://img.shields.io/badge/-ScikitLearn-000?&logo=scikit-learn">
-<img align="absmiddle" alt="Cisco PacketTracer" src="https://img.shields.io/badge/-PacketTracer-000?"> \
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/-Java-232F3E?&logo=openJDK">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Java-38BDAE?&logo=openJDK">
+    <img align="absmiddle" alt="Java" src="https://img.shields.io/badge/-Java-232F3E?&logo=openJDK">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/-JavaScript-232F3E?&logo=JavaScript">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-JavaScript-38BDAE?&logo=JavaScript">
+    <img align="absmiddle" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-232F3E?&logo=JavaScript">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/-Python-232F3E?&logo=Python">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Python-38BDAE?&logo=Python">
+    <img align="absmiddle" alt="Python" src="https://img.shields.io/badge/-Python-232F3E?&logo=Python">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/-GML-232F3E?&logo=gamemaker">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-GML-38BDAE?&logo=gamemaker">
+    <img align="absmiddle" alt="GameMaker" src="https://img.shields.io/badge/-GML-232F3E?&logo=gamemaker">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/-TensorFlow-232F3E?&logo=TensorFlow">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-TensorFlow-38BDAE?&logo=TensorFlow">
+    <img align="absmiddle" alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-232F3E?&logo=TensorFlow">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/-PyTorch-232F3E?&logo=PyTorch">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-PyTorch-38BDAE?&logo=PyTorch">
+    <img align="absmiddle" alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-232F3E?&logo=PyTorch">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/-ScikitLearn-232F3E?&logo=scikit-learn">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-ScikitLearn-38BDAE?&logo=scikit-learn">
+    <img align="absmiddle" alt="Scikit-Learn" src="https://img.shields.io/badge/-ScikitLearn-232F3E?&logo=scikit-learn">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/-PacketTracer-232F3E?">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-PacketTracer-38BDAE?">
+    <img align="absmiddle" alt="Cisco PacketTracer" src="https://img.shields.io/badge/-PacketTracer-232F3E?">
+  </picture> \
 Featured Project: [Rhythm Gml](https://dhekki.github.io/RhythmGml/)
 <br>
 
@@ -143,9 +175,21 @@ Featured Project: [Rhythm Gml](https://dhekki.github.io/RhythmGml/)
 **&nbsp;&nbsp;&nbsp;Technician in Systems Development** \
 <a href="https://www.senaibahia.com.br/" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Senai-0D1117?style=for-the-badge"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Senai-FFFFFF?style=for-the-badge"><img align="absmiddle" alt="Senai" src="https://img.shields.io/badge/Senai-0D1117?style=for-the-badge"></picture></a> • 2025 - 2026 (expected) \
 Languages & Technologies:
-<img align="absmiddle" alt="C" src="https://img.shields.io/badge/-C-000?&logo=C">
-<img align="absmiddle" alt="C++" src="https://img.shields.io/badge/-C++-000?&logo=c%2b%2b">
-<img align="absmiddle" alt="Arduino" src="https://img.shields.io/badge/-Arduino-000?&logo=Arduino"> \
+<picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/-C-232F3E?&logo=C">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-C-38BDAE?&logo=C">
+    <img align="absmiddle" alt="C" src="https://img.shields.io/badge/-C-232F3E?&logo=C">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/-C++-232F3E?&logo=c%2b%2b">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-C++-38BDAE?&logo=c%2b%2b">
+    <img align="absmiddle" alt="C++" src="https://img.shields.io/badge/-C++-232F3E?&logo=c%2b%2b">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/-Arduino-232F3E?&logo=Arduino">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Arduino-38BDAE?&logo=Arduino">
+    <img align="absmiddle" alt="Arduino" src="https://img.shields.io/badge/-Arduino-232F3E?&logo=Arduino">
+  </picture> \
 Featured Project: [CRUD in C - Vehicle Rental](https://github.com/Dhekki/SENAI-AluguelVeiculos)
 <br><br>
 
@@ -159,12 +203,34 @@ Featured Project: [CRUD in C - Vehicle Rental](https://github.com/Dhekki/SENAI-A
 <a href="https://compass.uol/pt/home/" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CompassUOL-0D1117?style=for-the-badge"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/CompassUOL-FFFFFF?style=for-the-badge"><img align="absmiddle" alt="CompassUOL" src="https://img.shields.io/badge/CompassUOL-0D1117?style=for-the-badge"></picture></a>
  • 03/2025 - 08/2025 \
 Languages & Technologies:
-<img align="absmiddle" alt="Python" src="https://img.shields.io/badge/-Python-000?&logo=Python">
-<img align="absmiddle" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript">
-<img align="absmiddle" alt="Docker" src="https://img.shields.io/badge/-Docker-000?&logo=Docker">
-<img align="absmiddle" alt="Git" src="https://img.shields.io/badge/-Git-000?&logo=git">
-<img align="absmiddle" alt="AWS" src="https://img.shields.io/badge/-AWS-000?"> \
-<br>
+
+ <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/-Python-232F3E?&logo=Python">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Python-38BDAE?&logo=Python">
+    <img align="absmiddle" alt="Python" src="https://img.shields.io/badge/-Python-232F3E?&logo=Python">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/-JavaScript-232F3E?&logo=JavaScript">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-JavaScript-38BDAE?&logo=JavaScript">
+    <img align="absmiddle" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-38BDAE?&logo=JavaScript">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/-Docker-232F3E?&logo=Docker">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Docker-38BDAE?&logo=Docker">
+    <img align="absmiddle" alt="Docker" src="https://img.shields.io/badge/-Docker-232F3E?&logo=Docker">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/-Git-232F3E?&logo=git">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Git-38BDAE?&logo=git">
+    <img align="absmiddle" alt="Git" src="https://img.shields.io/badge/-Git-232F3E?&logo=git">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/-AWS-232F3E?">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-AWS-38BDAE?">
+    <img align="absmiddle" alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?">
+  </picture>
+  
+<p>&nbsp;</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -175,7 +241,7 @@ Languages & Technologies:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhekki&exclude_repo=RhythmGml&cache_seconds=1800&layout=donut&theme=tokyonight" height="200"/>
 </picture>&nbsp;&nbsp;
 <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api?username=dhekki&show_icons=true">
+    <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api?username=dhekki&show_icons=true&theme=tokyonight">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=dhekki&show_icons=true">
     <img src="https://github-readme-stats.vercel.app/api?username=dhekki&show_icons=true&theme=tokyonight" height="200"/>   
 </picture>
