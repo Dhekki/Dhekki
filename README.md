@@ -203,8 +203,7 @@ Featured Project: [CRUD in C - Vehicle Rental](https://github.com/Dhekki/SENAI-A
 <a href="https://compass.uol/pt/home/" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CompassUOL-0D1117?style=for-the-badge"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/CompassUOL-FFFFFF?style=for-the-badge"><img align="absmiddle" alt="CompassUOL" src="https://img.shields.io/badge/CompassUOL-0D1117?style=for-the-badge"></picture></a>
  • 03/2025 - 08/2025 \
 Languages & Technologies:
-
- <picture>
+<picture>
     <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/-Python-232F3E?&logo=Python">
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Python-38BDAE?&logo=Python">
     <img align="absmiddle" alt="Python" src="https://img.shields.io/badge/-Python-232F3E?&logo=Python">
