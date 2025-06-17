@@ -235,14 +235,14 @@ Languages & Technologies:
 
 <p align="center">
 <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dhekki&exclude_repo=RhythmGml&cache_seconds=1800&layout=donut&theme=tokyonight">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dhekki&exclude_repo=RhythmGml&cache_seconds=1800&layout=donut">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhekki&exclude_repo=RhythmGml&cache_seconds=1800&layout=donut&theme=tokyonight" height="200"/>
-</picture>&nbsp;&nbsp;
+    <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dhekki&exclude_repo=RhythmGml&layout=donut&theme=tokyonight&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dhekki&exclude_repo=RhythmGml&layout=donut&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhekki&exclude_repo=RhythmGml&layout=donut&theme=tokyonight&hide_border=true" height="200"/>
+</picture>&nbsp;
 <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api?username=dhekki&show_icons=true&theme=tokyonight">
+    <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api?username=dhekki&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=dhekki&show_icons=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=dhekki&show_icons=true&theme=tokyonight" height="200"/>   
+    <img src="https://github-readme-stats.vercel.app/api?username=dhekki&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" height="200"/>   
 </picture>
 </p>
 
