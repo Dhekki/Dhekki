@@ -82,6 +82,10 @@
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Arduino-38BDAE?style=for-the-badge&logo=Arduino">
     <img alt="tagsNight" src="https://img.shields.io/badge/Arduino-232F3E?style=for-the-badge&logo=Arduino">
   </picture><picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/Packet Tracer-232F3E?style=for-the-badge&logo=cisco">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Packet Tracer-38BDAE?style=for-the-badge&logo=cisco">
+    <img alt="tagsNight" src="https://img.shields.io/badge/Packet Tracer-232F3E?style=for-the-badge&logo=cisco">
+  </picture><picture>
     <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge">
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/AWS-38BDAE?style=for-the-badge">
     <img alt="tagsNight" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge">
@@ -89,9 +93,7 @@
 </p>
 
 <p align="left">
-  🔗 Contact me here: ↓
-</p>
-<p align="left">
+  🔗 <strong>Social Links:</strong><br><br>
 <a href="mailto:gmdo0420@gmail.com" title="Gmail" target="_blank">
 <picture>
     <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/-Gmail-232F3E?logo=gmail&style=for-the-badge">
@@ -122,10 +124,10 @@
 
 ### Academic Experience
 
-[<img align="left" width="124px" alt="Warpnet" src="https://estaticos.animaeducacao.com.br/None/unifacs.webp"/>](https://www.unifacs.br/)
+[<img align="left" width="124px" alt="UnifacsLogo" src="https://estaticos.animaeducacao.com.br/None/unifacs.webp"/>](https://www.unifacs.br/)
 
 **&nbsp;&nbsp;&nbsp;Bachelor's Degree in Computer Science** \
-<a href="https://www.unifacs.br/" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Unifacs-0D1117?style=for-the-badge"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Unifacs-FFFFFF?style=for-the-badge"><img align="absmiddle" alt="Unifacs" src="https://img.shields.io/badge/Unifacs-0D1117?style=for-the-badge"></picture></a> • 2023 - 2026 (expected) \
+<a href="https://www.unifacs.br/" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Unifacs-0D1117?style=for-the-badge"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Unifacs-FFFFFF?style=for-the-badge"><img align="absmiddle" alt="Unifacs" src="https://img.shields.io/badge/Unifacs-0D1117?style=for-the-badge"></picture></a> • &nbsp; 2023 - 2026 (expected) \
 Languages & Technologies:
   <picture>
     <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/-Java-232F3E?&logo=openJDK">
@@ -163,17 +165,17 @@ Languages & Technologies:
     <img align="absmiddle" alt="Scikit-Learn" src="https://img.shields.io/badge/-ScikitLearn-232F3E?&logo=scikit-learn">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/-PacketTracer-232F3E?">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-PacketTracer-38BDAE?">
-    <img align="absmiddle" alt="Cisco PacketTracer" src="https://img.shields.io/badge/-PacketTracer-232F3E?">
+    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/-PacketTracer-232F3E?&logo=cisco">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-PacketTracer-38BDAE?&logo=cisco">
+    <img align="absmiddle" alt="Cisco PacketTracer" src="https://img.shields.io/badge/-PacketTracer-232F3E?&logo=cisco">
   </picture> \
 Featured Project: [Rhythm Gml](https://dhekki.github.io/RhythmGml/)
 <br>
 
-[<img align="left" width="124px" alt="Rocketseat" src="https://senaitocantins.com.br/wp-content/uploads/2021/05/logo-azul-senai.png"/>](https://www.senaibahia.com.br/)
+[<img align="left" width="124px" alt="SenaiLogo" src="https://senaitocantins.com.br/wp-content/uploads/2021/05/logo-azul-senai.png"/>](https://www.senaibahia.com.br/)
 
 **&nbsp;&nbsp;&nbsp;Technician in Systems Development** \
-<a href="https://www.senaibahia.com.br/" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Senai-0D1117?style=for-the-badge"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Senai-FFFFFF?style=for-the-badge"><img align="absmiddle" alt="Senai" src="https://img.shields.io/badge/Senai-0D1117?style=for-the-badge"></picture></a> • 2025 - 2026 (expected) \
+<a href="https://www.senaibahia.com.br/" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Senai-0D1117?style=for-the-badge"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Senai-FFFFFF?style=for-the-badge"><img align="absmiddle" alt="Senai" src="https://img.shields.io/badge/Senai-0D1117?style=for-the-badge"></picture></a> • &nbsp; 2025 - 2026 (expected) \
 Languages & Technologies:
 <picture>
     <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/-C-232F3E?&logo=C">
@@ -228,8 +230,17 @@ Languages & Technologies:
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-AWS-38BDAE?">
     <img align="absmiddle" alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?">
   </picture>
-  
-<p>&nbsp;</p>
+  <br><br>
+
+### Certifications & Badges
+
+<p align="left">
+  <a href="https://www.credly.com/badges/f8f9f254-9f7c-444a-af19-7d281481bc0d/public_url"><img src="https://images.credly.com/size/340x340/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" alt="CybersecurityEssentials" hspace=10 width="124px"></a>
+  <a href="https://www.credly.com/badges/8dc3ed74-8904-463f-b72c-24e5be3f2790/public_url"><img src="https://images.credly.com/size/340x340/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" alt="CCNA1" hspace=10 width="124px"></a>
+  <a href="https://www.credly.com/badges/245c0428-5e82-4b69-bf97-98d82dadd9d5/public_url"><img src="https://images.credly.com/size/340x340/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png" alt="NetworkDefense" hspace=10 width="124px"></a>
+  <a href="https://www.credly.com/badges/573cb577-99ac-4685-92d0-8ad347319320/public_url"><img src="https://images.credly.com/size/340x340/images/b93bf373-3da6-4ada-9879-a0c39d6a11f8/image.png" alt="JavaScriptEssentials" hspace=10 width="124px"></a>
+  <a href="https://www.credly.com/badges/d25e9b48-14c3-469a-97b0-c508af4076ce/public_url"><img src="https://images.credly.com/size/340x340/images/8bf3e17f-1982-4539-a1f7-ba85c749407a/blob" alt="A-Thon" hspace=10 width="124px"></a>
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
