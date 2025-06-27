@@ -266,7 +266,7 @@ Languages & Technologies:
   <picture>
     <source media="(prefers-color-scheme: dark)"  srcset="assets/icon.gif">
     <source media="(prefers-color-scheme: light)" srcset="https://media1.tenor.com/m/rHkV1rnt4asAAAAd/komi-komi-san.gif">
-    <img src="https://github-readme-stats.vercel.app/api?username=dhekki&show_icons=true&theme=tokyonight" alt="gif" align="right" width="40%"/>   
+    <img src="https://github-readme-stats.vercel.app/api?username=dhekki&show_icons=true&theme=tokyonight" alt="gif" align="right" width="350px"/>   
   </picture>&nbsp;
   <br><br>
   <em align="left"><b><br>You can't control the wind<br> but you can adjust your sails.<br>It's not about what happens to you,<br>it's how you react...</b></em>
