@@ -240,6 +240,7 @@ Languages & Technologies:
   <a href="https://www.credly.com/badges/245c0428-5e82-4b69-bf97-98d82dadd9d5/public_url"><img src="https://images.credly.com/size/340x340/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png" alt="NetworkDefense" hspace=10 width="124px"></a>
   <a href="https://www.credly.com/badges/573cb577-99ac-4685-92d0-8ad347319320/public_url"><img src="https://images.credly.com/size/340x340/images/b93bf373-3da6-4ada-9879-a0c39d6a11f8/image.png" alt="JavaScriptEssentials" hspace=10 width="124px"></a>
   <a href="https://www.credly.com/badges/d25e9b48-14c3-469a-97b0-c508af4076ce/public_url"><img src="https://images.credly.com/size/340x340/images/8bf3e17f-1982-4539-a1f7-ba85c749407a/blob" alt="A-Thon" hspace=10 width="124px"></a>
+  <a href="https://www.credly.com/badges/7415e2e8-9e6d-4c91-ac59-3e4eb24f232d/public_url"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="CloudPractitioner" hspace=10 width="124px"></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
