@@ -12,10 +12,9 @@
 </p>
 
 <p align="left">  
-  I am a Computer Science student at <strong>Unifacs</strong> and Systems Development at <strong>Senai</strong>. Currently, I'm an intern at <strong>CompassUOL</strong>, where I participate in various cloud learning projects with APIs and artificial intelligence. I am also a participant in the <strong>10th Cisco Brazil CyberEducation Marathon</strong>, now in its second phase.
+  I am a Computer Science Student, <strong>AWS</strong> Certified and a Winner of the <strong>10th Cisco Brazil CyberEducation Marathon</strong>.
   <br><br>
-  I have a great interest in Linux (I use Arch, btw), terminal automation, network concepts, cybersecurity, cloud computing, and machine learning!
-  
+  I have a great interest in Linux (I use Arch, btw), terminal automation, cybersecurity, cloud computing, and machine learning!
 </p>
 
 <p align="left">
@@ -232,12 +231,12 @@ Languages & Technologies:
   </picture>
   <br><br>
 
-### Certifications & Badges
+### Badges
 
 <p align="left">
   <a href="https://www.credly.com/badges/f8f9f254-9f7c-444a-af19-7d281481bc0d/public_url"><img src="https://images.credly.com/size/340x340/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" alt="CybersecurityEssentials" hspace=10 width="124px"></a>
   <a href="https://www.credly.com/badges/8dc3ed74-8904-463f-b72c-24e5be3f2790/public_url"><img src="https://images.credly.com/size/340x340/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" alt="CCNA1" hspace=10 width="124px"></a>
-  <a href="https://www.credly.com/badges/245c0428-5e82-4b69-bf97-98d82dadd9d5/public_url"><img src="https://images.credly.com/size/340x340/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png" alt="NetworkDefense" hspace=10 width="124px"></a>
+  <a href="https://www.credly.com/badges/821eb1fd-ff82-4b1c-8713-bbe847878583/public_url"><img src="https://images.credly.com/size/340x340/images/f7387386-553c-4be5-b3f3-077f78152f31/Network_Security.png" alt="NetworkSecurity" hspace=10 width="124px"></a>
   <a href="https://www.credly.com/badges/573cb577-99ac-4685-92d0-8ad347319320/public_url"><img src="https://images.credly.com/size/340x340/images/b93bf373-3da6-4ada-9879-a0c39d6a11f8/image.png" alt="JavaScriptEssentials" hspace=10 width="124px"></a>
   <a href="https://www.credly.com/badges/d25e9b48-14c3-469a-97b0-c508af4076ce/public_url"><img src="https://images.credly.com/size/340x340/images/8bf3e17f-1982-4539-a1f7-ba85c749407a/blob" alt="A-Thon" hspace=10 width="124px"></a>
   <a href="https://www.credly.com/badges/7415e2e8-9e6d-4c91-ac59-3e4eb24f232d/public_url"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="CloudPractitioner" hspace=10 width="124px"></a>
