@@ -228,7 +228,8 @@ Languages & Technologies:
     <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/-AWS-232F3E?">
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-AWS-38BDAE?">
     <img align="absmiddle" alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?">
-  </picture>
+  </picture> \
+  Featured Project: [Telegram Chatbot](https://github.com/Dhekki/Chatbot-Juridico)
   <br><br>
 
 ### Badges
