@@ -163,7 +163,7 @@ Languages & Technologies:
 Featured Project: [Rhythm Gml](https://dhekki.github.io/RhythmGml/)
 <br>
 
-[<img align="left" width="124px" alt="SenaiLogo" src="https://senaitocantins.com.br/wp-content/uploads/2021/05/logo-azul-senai.png"/>](https://www.senaibahia.com.br/)
+[<img align="left" width="124px" alt="SenaiLogo" src="https://credenciamentosenai.fiepb.com.br/images/senai-azul-2025.png"/>](https://www.senaibahia.com.br/)
 
 **&nbsp;&nbsp;&nbsp;Technician in Systems Development** \
 <a href="https://www.senaibahia.com.br/" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Senai-0D1117?style=for-the-badge"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Senai-FFFFFF?style=for-the-badge"><img align="absmiddle" alt="Senai" src="https://img.shields.io/badge/Senai-0D1117?style=for-the-badge"></picture></a> • &nbsp; 2025 - 2026 (expected) \
