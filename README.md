@@ -188,7 +188,7 @@ Languages & Technologies:
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Arduino-38BDAE?&logo=Arduino">
     <img align="absmiddle" alt="Arduino" src="https://img.shields.io/badge/-Arduino-232F3E?&logo=Arduino">
   </picture> \
-Featured Project: [CRUD in C - Vehicle Rental](https://github.com/Dhekki/SENAI-AluguelVeiculos)
+Featured Project: [Cantina Vidal](https://github.com/Dhekki/Cantina_Vidal)
 <br><br>
 
 ### Work Experience
