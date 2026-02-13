@@ -115,7 +115,7 @@
 
 ### Academic Experience
 
-[<img align="left" width="124px" alt="UnifacsLogo" src="https://estaticos.animaeducacao.com.br/None/unifacs.webp"/>](https://www.unifacs.br/)
+[<img align="left" width="124px" alt="UnifacsLogo" src="assets/unifacs-logo.webp"/>](https://www.unifacs.br/)
 
 **&nbsp;&nbsp;&nbsp;Bachelor's Degree in Computer Science** \
 <a href="https://www.unifacs.br/" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Unifacs-0D1117?style=for-the-badge"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Unifacs-FFFFFF?style=for-the-badge"><img align="absmiddle" alt="Unifacs" src="https://img.shields.io/badge/Unifacs-0D1117?style=for-the-badge"></picture></a> • &nbsp; 2023 - 2026 (expected) \
@@ -163,7 +163,7 @@ Languages & Technologies:
 Featured Project: [Rhythm Gml](https://dhekki.github.io/RhythmGml/)
 <br>
 
-[<img align="left" width="124px" alt="SenaiLogo" src="https://credenciamentosenai.fiepb.com.br/images/senai-azul-2025.png"/>](https://www.senaibahia.com.br/)
+[<img align="left" width="124px" alt="SenaiLogo" src="assets/senai-logo.png"/>](https://www.senaibahia.com.br/)
 
 **&nbsp;&nbsp;&nbsp;Technician in Systems Development** \
 <a href="https://www.senaibahia.com.br/" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Senai-0D1117?style=for-the-badge"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Senai-FFFFFF?style=for-the-badge"><img align="absmiddle" alt="Senai" src="https://img.shields.io/badge/Senai-0D1117?style=for-the-badge"></picture></a> • &nbsp; 2025 - 2026 (expected) \
@@ -194,7 +194,7 @@ Featured Project: [Cantina Vidal](https://github.com/Dhekki/Cantina_Vidal)
 ### Work Experience
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://camo.githubusercontent.com/f600cff1defa446bad05ec5d84777e953955e806d929c6fdbcd242a94a7bad63/68747470733a2f2f64312e6177737374617469632e636f6d2f6c6f676f732f416d617a6f6e2532304d534b2532306c6f676f732f434f4d504153532d4c4f474f2e363864656666316635383462656130373637383435383732666138663233623932376432353134392e706e67"><source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/4/45/Logo_CompassoUOL_Positivo.png"><img align="left" width="124px" alt="CompassUOL Logo" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Logo_CompassoUOL_Positivo.png">
+<source media="(prefers-color-scheme: dark)" srcset="assets/compassUol-logo-escuro.png"><source media="(prefers-color-scheme: light)" srcset="assets/compassUol-logo-claro.png"><img align="left" width="124px" alt="CompassUOL Logo" src="assets/compassUol-logo-escuro.png">
 </picture>
 
 **&nbsp;&nbsp;&nbsp;Intern - Scholarship Program** \
@@ -237,7 +237,7 @@ Languages & Technologies:
   <a href="https://www.credly.com/badges/821eb1fd-ff82-4b1c-8713-bbe847878583/public_url"><img src="https://images.credly.com/size/340x340/images/f7387386-553c-4be5-b3f3-077f78152f31/Network_Security.png" alt="NetworkSecurity" hspace=10 width="124px"></a>
   <a href="https://www.credly.com/badges/d25e9b48-14c3-469a-97b0-c508af4076ce/public_url"><img src="https://images.credly.com/size/340x340/images/8bf3e17f-1982-4539-a1f7-ba85c749407a/blob" alt="A-Thon" hspace=10 width="124px"></a>
   <a href="https://www.credly.com/badges/7415e2e8-9e6d-4c91-ac59-3e4eb24f232d/public_url"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="CloudPractitioner" hspace=10 width="124px"></a>
-  </a><a href="https://www.credly.com/badges/7773af34-77b7-4a76-8128-d83b5002ed65/public_url"><img src="https://images.credly.com/images/51984979-f759-49f0-8bb3-5310d364fdbe/image.png" alt="ML Foundatiouns" hspace=10 width="124px"></a>
+  </a><a href="https://www.credly.com/badges/7773af34-77b7-4a76-8128-d83b5002ed65/public_url"><img src="https://images.credly.com/images/247efe36-9fa6-4209-ad56-0fd522283872/blob" alt="ML Foundatiouns" hspace=10 width="124px"></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
