@@ -244,14 +244,14 @@ Languages & Technologies:
 
 <p align="center">
 <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dhekki&exclude_repo=RhythmGml&layout=donut&theme=tokyonight&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dhekki&exclude_repo=RhythmGml&layout=donut&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhekki&exclude_repo=RhythmGml&layout=donut&theme=tokyonight&hide_border=true" height="200"/>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=dhekki&exclude_repo=RhythmGml&layout=donut&theme=tokyonight&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=dhekki&exclude_repo=RhythmGml&layout=donut&hide_border=true">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dhekki&exclude_repo=RhythmGml&layout=donut&theme=tokyonight&hide_border=true" height="200"/>
 </picture>&nbsp;
 <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api?username=dhekki&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=dhekki&show_icons=true&rank_icon=github&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=dhekki&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" height="200"/>   
+    <source media="(prefers-color-scheme: dark)"  srcset="https://github-stats-extended.vercel.app/api?username=dhekki&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=dhekki&show_icons=true&rank_icon=github&hide_border=true">
+    <img src="https://github-stats-extended.vercel.app/api?username=dhekki&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" height="200"/>   
 </picture>
 </p>
 
