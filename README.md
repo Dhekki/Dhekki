@@ -113,103 +113,25 @@
 
 ---
 
-### Academic Experience
+### 🚀 Featured Projects
 
-[<img align="left" width="124px" alt="UnifacsLogo" src="assets/unifacs-logo.webp"/>](https://www.unifacs.br/)
+[<img align="left" width="124px" alt="VidalLogo" src="assets/vidalLogo.png"/>](https://github.com/Dhekki/Cantina_Vidal)
 
-**&nbsp;&nbsp;&nbsp;Bachelor's Degree in Computer Science** \
-<a href="https://www.unifacs.br/" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Unifacs-0D1117?style=for-the-badge"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Unifacs-FFFFFF?style=for-the-badge"><img align="absmiddle" alt="Unifacs" src="https://img.shields.io/badge/Unifacs-0D1117?style=for-the-badge"></picture></a> • &nbsp; 2023 - 2026 (expected) \
-Languages & Technologies:
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/-Java-232F3E?&logo=openJDK">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Java-38BDAE?&logo=openJDK">
-    <img align="absmiddle" alt="Java" src="https://img.shields.io/badge/-Java-232F3E?&logo=openJDK">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/-JavaScript-232F3E?&logo=JavaScript">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-JavaScript-38BDAE?&logo=JavaScript">
-    <img align="absmiddle" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-232F3E?&logo=JavaScript">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/-Python-232F3E?&logo=Python">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Python-38BDAE?&logo=Python">
-    <img align="absmiddle" alt="Python" src="https://img.shields.io/badge/-Python-232F3E?&logo=Python">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/-GML-232F3E?&logo=gamemaker">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-GML-38BDAE?&logo=gamemaker">
-    <img align="absmiddle" alt="GameMaker" src="https://img.shields.io/badge/-GML-232F3E?&logo=gamemaker">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/-TensorFlow-232F3E?&logo=TensorFlow">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-TensorFlow-38BDAE?&logo=TensorFlow">
-    <img align="absmiddle" alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-232F3E?&logo=TensorFlow">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/-PyTorch-232F3E?&logo=PyTorch">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-PyTorch-38BDAE?&logo=PyTorch">
-    <img align="absmiddle" alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-232F3E?&logo=PyTorch">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/-ScikitLearn-232F3E?&logo=scikit-learn">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-ScikitLearn-38BDAE?&logo=scikit-learn">
-    <img align="absmiddle" alt="Scikit-Learn" src="https://img.shields.io/badge/-ScikitLearn-232F3E?&logo=scikit-learn">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/-PacketTracer-232F3E?&logo=cisco">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-PacketTracer-38BDAE?&logo=cisco">
-    <img align="absmiddle" alt="Cisco PacketTracer" src="https://img.shields.io/badge/-PacketTracer-232F3E?&logo=cisco">
-  </picture> \
-Featured Project: [Rhythm Gml](https://dhekki.github.io/RhythmGml/)
 <br>
 
-[<img align="left" width="124px" alt="SenaiLogo" src="assets/senai-logo.png"/>](https://www.senaibahia.com.br/)
-
-**&nbsp;&nbsp;&nbsp;Technician in Systems Development** \
-<a href="https://www.senaibahia.com.br/" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Senai-0D1117?style=for-the-badge"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Senai-FFFFFF?style=for-the-badge"><img align="absmiddle" alt="Senai" src="https://img.shields.io/badge/Senai-0D1117?style=for-the-badge"></picture></a> • &nbsp; 2025 - 2026 (expected) \
-Languages & Technologies:
+**&nbsp;&nbsp;&nbsp;Cantina Vidal - Retail Management Platform** \
+&nbsp;&nbsp;&nbsp;Fullstack Web Application • 2025 \
+&nbsp;&nbsp;&nbsp;Role: Backend Lead & Software Architect \
+&nbsp;&nbsp;&nbsp;Languages & Technologies:
 <picture>
     <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/-Java-232F3E?&logo=openJDK">
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Java-38BDAE?&logo=openJDK">
     <img align="absmiddle" alt="Java" src="https://img.shields.io/badge/-Java-232F3E?&logo=openJDK">
   </picture>
-<picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/-C-232F3E?&logo=C">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-C-38BDAE?&logo=C">
-    <img align="absmiddle" alt="C" src="https://img.shields.io/badge/-C-232F3E?&logo=C">
-  </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/-C++-232F3E?&logo=c%2b%2b">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-C++-38BDAE?&logo=c%2b%2b">
-    <img align="absmiddle" alt="C++" src="https://img.shields.io/badge/-C++-232F3E?&logo=c%2b%2b">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/-Arduino-232F3E?&logo=Arduino">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Arduino-38BDAE?&logo=Arduino">
-    <img align="absmiddle" alt="Arduino" src="https://img.shields.io/badge/-Arduino-232F3E?&logo=Arduino">
-  </picture> \
-Featured Project: [Cantina Vidal](https://github.com/Dhekki/Cantina_Vidal)
-<br><br>
-
-### Work Experience
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/compassUol-logo-escuro.png"><source media="(prefers-color-scheme: light)" srcset="assets/compassUol-logo-claro.png"><img align="left" width="124px" alt="CompassUOL Logo" src="assets/compassUol-logo-escuro.png">
-</picture>
-
-**&nbsp;&nbsp;&nbsp;Intern - Scholarship Program** \
-<a href="https://compass.uol/pt/home/" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CompassUOL-0D1117?style=for-the-badge"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/CompassUOL-FFFFFF?style=for-the-badge"><img align="absmiddle" alt="CompassUOL" src="https://img.shields.io/badge/CompassUOL-0D1117?style=for-the-badge"></picture></a>
- • 03/2025 - 08/2025 \
-Languages & Technologies:
-<picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/-Python-232F3E?&logo=Python">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Python-38BDAE?&logo=Python">
-    <img align="absmiddle" alt="Python" src="https://img.shields.io/badge/-Python-232F3E?&logo=Python">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/-JavaScript-232F3E?&logo=JavaScript">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-JavaScript-38BDAE?&logo=JavaScript">
-    <img align="absmiddle" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-38BDAE?&logo=JavaScript">
+    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/-SpringBoot-232F3E?&logo=springboot">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-SpringBoot-38BDAE?&logo=springboot">
+    <img align="absmiddle" alt="Spring Boot" src="https://img.shields.io/badge/-SpringBoot-232F3E?&logo=springboot">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/-Docker-232F3E?&logo=Docker">
@@ -217,17 +139,67 @@ Languages & Technologies:
     <img align="absmiddle" alt="Docker" src="https://img.shields.io/badge/-Docker-232F3E?&logo=Docker">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/-Git-232F3E?&logo=git">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Git-38BDAE?&logo=git">
-    <img align="absmiddle" alt="Git" src="https://img.shields.io/badge/-Git-232F3E?&logo=git">
+    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/-Actions-232F3E?&logo=githubactions">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Actions-38BDAE?&logo=githubactions">
+    <img align="absmiddle" alt="GitHub Actions" src="https://img.shields.io/badge/-Actions-232F3E?&logo=githubactions">
+  </picture>
+  <br><br><br>
+
+> A high-concurrency order management system designed to eliminate bottlenecks and queues. Features a robust Java API with Server-Sent Events (SSE) for real-time, zero-polling kitchen synchronization.
+> *Technical Highlights:* Built with Java 21 and Spring Boot, implementing strict RBAC, Argon2 hashing, QueryDSL type-safety, real soft-deletes (`@SQLDelete`), and automated CI/CD Docker deployments.
+<br><br>
+
+<br>
+
+[<img align="left" width="124px" alt="YoloLogo" src="assets/ultralyticsYolo.png"/>](https://github.com/Dhekki/Traffic_light_yolo)
+
+<br>
+
+**&nbsp;&nbsp;&nbsp;Traffic Light Detection & Classification** \
+&nbsp;&nbsp;&nbsp;Computer Vision PoC • 2026 \
+&nbsp;&nbsp;&nbsp;Role: Solo Developer / Researcher \
+&nbsp;&nbsp;&nbsp;Languages & Technologies:
+<picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/-Python-232F3E?&logo=Python">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Python-38BDAE?&logo=Python">
+    <img align="absmiddle" alt="Python" src="https://img.shields.io/badge/-Python-232F3E?&logo=Python">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/-AWS-232F3E?">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-AWS-38BDAE?">
-    <img align="absmiddle" alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?">
-  </picture> \
-  Featured Project: [Telegram Chatbot](https://github.com/Dhekki/Chatbot-Juridico)
+    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/-OpenCV-232F3E?&logo=opencv">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-OpenCV-38BDAE?&logo=opencv">
+    <img align="absmiddle" alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-232F3E?&logo=opencv">
+  </picture>
   <br><br>
+
+> A Two-Stage Computer Vision Proof of Concept (PoC) for real-world traffic light state classification.
+> *Technical Highlights:* Applies SOLID principles by decoupling YOLOv8 Object Detection (ROI extraction) from a custom OpenCV Spatial Heuristic algorithm, overcoming traditional pixel-color fragility under glare or cloudy conditions.
+<br><br>
+
+<br>
+
+[<img align="left" width="124px" alt="MinimaxLogo" src="assets/minimax.png"/>](https://github.com/Dhekki/Minimax_TicTacToe)
+
+<br>
+
+**&nbsp;&nbsp;&nbsp;Minimax Tic-Tac-Toe Agent** \
+&nbsp;&nbsp;&nbsp;Artificial Intelligence & Game Theory • 2026 \
+&nbsp;&nbsp;&nbsp;Role: Solo Developer \
+&nbsp;&nbsp;&nbsp;Languages & Technologies:
+<picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/-Java-232F3E?&logo=openJDK">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Java-38BDAE?&logo=openJDK">
+    <img align="absmiddle" alt="Java" src="https://img.shields.io/badge/-Java-232F3E?&logo=openJDK">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/-Docker-232F3E?&logo=Docker">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Docker-38BDAE?&logo=Docker">
+    <img align="absmiddle" alt="Docker" src="https://img.shields.io/badge/-Docker-232F3E?&logo=Docker">
+  </picture>
+  <br><br>
+
+> An invincible console-based game agent built to deeply explore Artificial Intelligence and Game Theory fundamentals.
+> *Technical Highlights:* Implements a recursive decision tree using the Minimax algorithm, heavily optimized with Alpha-Beta Pruning to evaluate states, prioritize faster winning paths, and execute flawless logic.
+<br><br>
 
 ### Badges
 
