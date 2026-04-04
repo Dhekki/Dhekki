@@ -117,8 +117,6 @@
 
 [<img align="left" width="124px" alt="VidalLogo" src="assets/vidalLogo.png"/>](https://github.com/Dhekki/Cantina_Vidal)
 
-<br>
-
 **&nbsp;&nbsp;&nbsp;Cantina Vidal - Retail Management Platform** \
 &nbsp;&nbsp;&nbsp;Fullstack Web Application • 2025 \
 &nbsp;&nbsp;&nbsp;Role: Backend Lead & Software Architect \
@@ -153,8 +151,6 @@
 
 [<img align="left" width="124px" alt="YoloLogo" src="assets/ultralyticsYolo.png"/>](https://github.com/Dhekki/Traffic_light_yolo)
 
-<br>
-
 **&nbsp;&nbsp;&nbsp;Traffic Light Detection & Classification** \
 &nbsp;&nbsp;&nbsp;Computer Vision PoC • 2026 \
 &nbsp;&nbsp;&nbsp;Role: Solo Developer / Researcher \
@@ -178,8 +174,6 @@
 <br>
 
 [<img align="left" width="124px" alt="MinimaxLogo" src="assets/minimax.png"/>](https://github.com/Dhekki/Minimax_TicTacToe)
-
-<br>
 
 **&nbsp;&nbsp;&nbsp;Minimax Tic-Tac-Toe Agent** \
 &nbsp;&nbsp;&nbsp;Artificial Intelligence & Game Theory • 2026 \
